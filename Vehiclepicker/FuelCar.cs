@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Vehiclepicker
 {
-    internal class FuelCar
+    public class FuelCar: Vehicle
     {
+        public int FuelCapacity { get; set; }
+        public override void PickCar(int number)
+        {
+            base.Equals(number);
+            Console.WriteLine($"Fuel Capacity is: {FuelCapacity}");
+        }
     }
 }
