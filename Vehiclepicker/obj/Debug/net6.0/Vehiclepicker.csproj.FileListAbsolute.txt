@@ -1,0 +1,14 @@
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\bin\Debug\net6.0\Vehiclepicker.exe
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\bin\Debug\net6.0\Vehiclepicker.deps.json
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\bin\Debug\net6.0\Vehiclepicker.runtimeconfig.json
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\bin\Debug\net6.0\Vehiclepicker.dll
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\bin\Debug\net6.0\Vehiclepicker.pdb
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\obj\Debug\net6.0\Vehiclepicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\obj\Debug\net6.0\Vehiclepicker.AssemblyInfoInputs.cache
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\obj\Debug\net6.0\Vehiclepicker.AssemblyInfo.cs
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\obj\Debug\net6.0\Vehiclepicker.csproj.CoreCompileInputs.cache
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\obj\Debug\net6.0\Vehiclepicker.dll
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\obj\Debug\net6.0\refint\Vehiclepicker.dll
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\obj\Debug\net6.0\Vehiclepicker.pdb
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\obj\Debug\net6.0\Vehiclepicker.genruntimeconfig.cache
+C:\Users\Yoga 260\source\repos\Vehiclepicker\Vehiclepicker\obj\Debug\net6.0\ref\Vehiclepicker.dll

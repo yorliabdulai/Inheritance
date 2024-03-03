@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kHA1LH9IubEyQkkRD8Q2iu8C6+N8G5jpP908mXI8xVb0LVnmSK/pEFPmlquNlOiLH7BV1iA5pkNKyfWWgcKEYg==",
+  "dgSpecHash": "YwriHrXP0Mh+rDA+0xqpSo0+ko6Kjk1KZPEXjezeVk2vsCFw/kTgYoEnvqW49++IObPTdnKSntkyOcv+Kukx0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yoga 260\\source\\repos\\Vehiclepicker\\Vehiclepicker\\Vehiclepicker.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Yoga 260\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Yoga 260\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Yoga 260\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\Yoga 260\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
